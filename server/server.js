@@ -8,6 +8,7 @@
 const app = require("./app");
 const mongoose = require("mongoose");
 const dotenv = require('dotenv');
+const seedDatabase = require("./config/seed");
 
 // Loading in environment variables
 if(!process.env.ENVIRONMENT) {
@@ -19,8 +20,9 @@ const MONGODB_URI = process.env.MONGO_URI;
 
 mongoose
   .connect(MONGODB_URI)
-  .then(() => {
+  .then(async () => {
     console.log('App connected to database');
+    await seedDatabase();
     app.listen(PORT, () => {
       console.log(`App is listening to port: ${PORT}`);
     });

@@ -1,5 +1,11 @@
 # Getting Started with ClubHUB Server-Side App
 
+## Installation
+
+To start the first time, in the server directory, you can run:
+
+### `npm install`
+
 ## Available Scripts
 
 In the server directory, you can run:

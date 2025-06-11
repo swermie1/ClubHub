@@ -1,0 +1,2602 @@
+{
+  "users": [
+    {
+      "firstName": "Anna",
+      "lastName": "Admin",
+      "email": "admin@umanitoba.ca",
+      "passwordHash": "hashed_password_admin"
+    },
+    {
+      "firstName": "Max",
+      "lastName": "Member",
+      "email": "member@umanitoba.ca",
+      "passwordHash": "hashed_password_member"
+    }
+  ],
+  "interests": [
+    "Badminton",
+    "Climbing",
+    "Dance",
+    "Rugby",
+    "Soccer",
+    "Synchro Skate",
+    "Tennis",
+    "Ultimate",
+    "Volleyball",
+    "Wrestling",
+    "Chess",
+    "Environmentalism",
+    "Digital Art",
+    "Volunteering",
+    "Robotics",
+    "Astronomy",
+    "Creative Writing",
+    "Film Appreciation",
+    "Board Games",
+    "Public Speaking",
+    "Finance and Investing",
+    "Mobile App Development",
+    "Language Exchange",
+    "Philosophy",
+    "Music Production"
+  ],
+  "userInterests": [
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "interestName": "Wrestling"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "interestName": "Chess"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "interestName": "Music Production"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "interestName": "Chess"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "interestName": "Mobile App Development"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "interestName": "Rugby"
+    }
+  ],
+  "clubs": [
+    {
+      "name": "Badminton Club",
+      "description": "Tend run stock sign think argue catch loss hope fear chance truth.",
+      "email": "badmintonclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Badminton+Club"
+    },
+    {
+      "name": "Climbing Club",
+      "description": "Watch management see theory design public win.",
+      "email": "climbingclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Climbing+Club"
+    },
+    {
+      "name": "Dance Club",
+      "description": "Run campaign energy themselves our understand house statement right opportunity commercial eight cultural.",
+      "email": "danceclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Dance+Club"
+    },
+    {
+      "name": "Rugby Club",
+      "description": "Son mean per issue onto debate always produce.",
+      "email": "rugbyclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Rugby+Club"
+    },
+    {
+      "name": "Soccer Club",
+      "description": "Thousand evidence develop down ball fill.",
+      "email": "soccerclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Soccer+Club"
+    },
+    {
+      "name": "Synchro Skate Club",
+      "description": "For right trial window individual resource beyond democratic past.",
+      "email": "synchroskateclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Synchro+Skate+Club"
+    },
+    {
+      "name": "Tennis Club",
+      "description": "Stop arm amount build chair final meet computer guess education major up note.",
+      "email": "tennisclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Tennis+Club"
+    },
+    {
+      "name": "Ultimate Frisbee Club",
+      "description": "Way strong member anything run opportunity director development various matter.",
+      "email": "ultimatefrisbeeclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Ultimate+Frisbee+Club"
+    },
+    {
+      "name": "Volleyball Club",
+      "description": "Federal stop notice international course author learn though actually memory want again cost other.",
+      "email": "volleyballclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Volleyball+Club"
+    },
+    {
+      "name": "Wrestling Club",
+      "description": "Pressure movement because mouth from down.",
+      "email": "wrestlingclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Wrestling+Club"
+    },
+    {
+      "name": "Chess Club",
+      "description": "Election hand brother mission step bad.",
+      "email": "chessclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Chess+Club"
+    },
+    {
+      "name": "Environmental Club",
+      "description": "Song bag responsibility end can already step tell together bit do.",
+      "email": "environmentalclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Environmental+Club"
+    },
+    {
+      "name": "Digital Art Club",
+      "description": "Participant establish indicate along main full create line challenge.",
+      "email": "digitalartclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Digital+Art+Club"
+    },
+    {
+      "name": "Volunteering Club",
+      "description": "First with pretty difference final cut particularly onto.",
+      "email": "volunteeringclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Volunteering+Club"
+    },
+    {
+      "name": "Robotics Club",
+      "description": "Only product natural oil blue total lead.",
+      "email": "roboticsclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Robotics+Club"
+    },
+    {
+      "name": "Astronomy Club",
+      "description": "While peace voice car send car sort bring federal contain protect spend.",
+      "email": "astronomyclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Astronomy+Club"
+    },
+    {
+      "name": "Creative Writing Club",
+      "description": "List value hour station four for matter meet.",
+      "email": "creativewritingclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Creative+Writing+Club"
+    },
+    {
+      "name": "Film Appreciation Club",
+      "description": "Sound other probably notice bring might try.",
+      "email": "filmappreciationclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Film+Appreciation+Club"
+    },
+    {
+      "name": "Board Games Club",
+      "description": "Those ever hear design a appear some course there.",
+      "email": "boardgamesclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Board+Games+Club"
+    },
+    {
+      "name": "Public Speaking Club",
+      "description": "Defense interesting these eye sister anything prove exactly rather talk low language.",
+      "email": "publicspeakingclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Public+Speaking+Club"
+    },
+    {
+      "name": "Finance & Investing Club",
+      "description": "How occur ever position ready card front price focus loss grow.",
+      "email": "financeandinvestingclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Finance+&+Investing+Club"
+    },
+    {
+      "name": "Mobile App Dev Club",
+      "description": "Stand meet go listen suddenly rate project nearly.",
+      "email": "mobileappdevclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Mobile+App+Dev+Club"
+    },
+    {
+      "name": "Language Exchange Club",
+      "description": "Happy Congress type yes yard something class eye perform enjoy true reflect else.",
+      "email": "languageexchangeclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Language+Exchange+Club"
+    },
+    {
+      "name": "Philosophy Club",
+      "description": "Notice husband attention his loss American money about account what direction.",
+      "email": "philosophyclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Philosophy+Club"
+    },
+    {
+      "name": "Music Production Club",
+      "description": "Each suddenly share enter need radio professor gas another attorney peace.",
+      "email": "musicproductionclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Music+Production+Club"
+    },
+    {
+      "name": "Engineering Society",
+      "description": "Newspaper best music four information reach movement offer range.",
+      "email": "engineeringsociety@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Engineering+Society"
+    },
+    {
+      "name": "UM Photo Club",
+      "description": "Bank boy toward thank hour professor clear price adult cause.",
+      "email": "umphotoclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=UM+Photo+Club"
+    },
+    {
+      "name": "UM Anime Club",
+      "description": "Movie parent huge us financial another anything significant.",
+      "email": "umanimeclub@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=UM+Anime+Club"
+    },
+    {
+      "name": "Science Student Association",
+      "description": "End offer company red reveal lay rich player knowledge artist.",
+      "email": "sciencestudentassociation@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Science+Student+Association"
+    },
+    {
+      "name": "Women in STEM",
+      "description": "Ever send bag end can until professor actually white north few actually.",
+      "email": "womeninstem@umanitoba.ca",
+      "createdByEmail": "admin@umanitoba.ca",
+      "executiveEmails": [
+        "admin@umanitoba.ca"
+      ],
+      "imgUrl": "https://via.placeholder.com/640x480.png?text=Women+in+STEM"
+    }
+  ],
+  "clubInterests": [
+    {
+      "clubName": "Badminton Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Badminton Club",
+      "interestName": "Chess"
+    },
+    {
+      "clubName": "Badminton Club",
+      "interestName": "Wrestling"
+    },
+    {
+      "clubName": "Badminton Club",
+      "interestName": "Volunteering"
+    },
+    {
+      "clubName": "Badminton Club",
+      "interestName": "Board Games"
+    },
+    {
+      "clubName": "Climbing Club",
+      "interestName": "Mobile App Development"
+    },
+    {
+      "clubName": "Climbing Club",
+      "interestName": "Film Appreciation"
+    },
+    {
+      "clubName": "Climbing Club",
+      "interestName": "Finance and Investing"
+    },
+    {
+      "clubName": "Climbing Club",
+      "interestName": "Badminton"
+    },
+    {
+      "clubName": "Climbing Club",
+      "interestName": "Chess"
+    },
+    {
+      "clubName": "Dance Club",
+      "interestName": "Volleyball"
+    },
+    {
+      "clubName": "Dance Club",
+      "interestName": "Badminton"
+    },
+    {
+      "clubName": "Dance Club",
+      "interestName": "Environmentalism"
+    },
+    {
+      "clubName": "Dance Club",
+      "interestName": "Language Exchange"
+    },
+    {
+      "clubName": "Dance Club",
+      "interestName": "Music Production"
+    },
+    {
+      "clubName": "Rugby Club",
+      "interestName": "Synchro Skate"
+    },
+    {
+      "clubName": "Rugby Club",
+      "interestName": "Wrestling"
+    },
+    {
+      "clubName": "Rugby Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Rugby Club",
+      "interestName": "Tennis"
+    },
+    {
+      "clubName": "Rugby Club",
+      "interestName": "Robotics"
+    },
+    {
+      "clubName": "Soccer Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Soccer Club",
+      "interestName": "Public Speaking"
+    },
+    {
+      "clubName": "Soccer Club",
+      "interestName": "Robotics"
+    },
+    {
+      "clubName": "Soccer Club",
+      "interestName": "Climbing"
+    },
+    {
+      "clubName": "Soccer Club",
+      "interestName": "Astronomy"
+    },
+    {
+      "clubName": "Synchro Skate Club",
+      "interestName": "Philosophy"
+    },
+    {
+      "clubName": "Synchro Skate Club",
+      "interestName": "Astronomy"
+    },
+    {
+      "clubName": "Synchro Skate Club",
+      "interestName": "Mobile App Development"
+    },
+    {
+      "clubName": "Synchro Skate Club",
+      "interestName": "Finance and Investing"
+    },
+    {
+      "clubName": "Synchro Skate Club",
+      "interestName": "Dance"
+    },
+    {
+      "clubName": "Tennis Club",
+      "interestName": "Environmentalism"
+    },
+    {
+      "clubName": "Tennis Club",
+      "interestName": "Dance"
+    },
+    {
+      "clubName": "Tennis Club",
+      "interestName": "Volunteering"
+    },
+    {
+      "clubName": "Tennis Club",
+      "interestName": "Soccer"
+    },
+    {
+      "clubName": "Tennis Club",
+      "interestName": "Astronomy"
+    },
+    {
+      "clubName": "Ultimate Frisbee Club",
+      "interestName": "Astronomy"
+    },
+    {
+      "clubName": "Ultimate Frisbee Club",
+      "interestName": "Synchro Skate"
+    },
+    {
+      "clubName": "Ultimate Frisbee Club",
+      "interestName": "Tennis"
+    },
+    {
+      "clubName": "Ultimate Frisbee Club",
+      "interestName": "Creative Writing"
+    },
+    {
+      "clubName": "Ultimate Frisbee Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Volleyball Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Volleyball Club",
+      "interestName": "Public Speaking"
+    },
+    {
+      "clubName": "Volleyball Club",
+      "interestName": "Volunteering"
+    },
+    {
+      "clubName": "Volleyball Club",
+      "interestName": "Environmentalism"
+    },
+    {
+      "clubName": "Volleyball Club",
+      "interestName": "Digital Art"
+    },
+    {
+      "clubName": "Wrestling Club",
+      "interestName": "Environmentalism"
+    },
+    {
+      "clubName": "Wrestling Club",
+      "interestName": "Astronomy"
+    },
+    {
+      "clubName": "Wrestling Club",
+      "interestName": "Public Speaking"
+    },
+    {
+      "clubName": "Wrestling Club",
+      "interestName": "Dance"
+    },
+    {
+      "clubName": "Wrestling Club",
+      "interestName": "Wrestling"
+    },
+    {
+      "clubName": "Chess Club",
+      "interestName": "Digital Art"
+    },
+    {
+      "clubName": "Chess Club",
+      "interestName": "Film Appreciation"
+    },
+    {
+      "clubName": "Chess Club",
+      "interestName": "Astronomy"
+    },
+    {
+      "clubName": "Chess Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Chess Club",
+      "interestName": "Finance and Investing"
+    },
+    {
+      "clubName": "Environmental Club",
+      "interestName": "Music Production"
+    },
+    {
+      "clubName": "Environmental Club",
+      "interestName": "Astronomy"
+    },
+    {
+      "clubName": "Environmental Club",
+      "interestName": "Environmentalism"
+    },
+    {
+      "clubName": "Environmental Club",
+      "interestName": "Soccer"
+    },
+    {
+      "clubName": "Environmental Club",
+      "interestName": "Ultimate"
+    },
+    {
+      "clubName": "Digital Art Club",
+      "interestName": "Volunteering"
+    },
+    {
+      "clubName": "Digital Art Club",
+      "interestName": "Tennis"
+    },
+    {
+      "clubName": "Digital Art Club",
+      "interestName": "Mobile App Development"
+    },
+    {
+      "clubName": "Digital Art Club",
+      "interestName": "Environmentalism"
+    },
+    {
+      "clubName": "Digital Art Club",
+      "interestName": "Music Production"
+    },
+    {
+      "clubName": "Volunteering Club",
+      "interestName": "Astronomy"
+    },
+    {
+      "clubName": "Volunteering Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Volunteering Club",
+      "interestName": "Music Production"
+    },
+    {
+      "clubName": "Volunteering Club",
+      "interestName": "Volunteering"
+    },
+    {
+      "clubName": "Volunteering Club",
+      "interestName": "Creative Writing"
+    },
+    {
+      "clubName": "Robotics Club",
+      "interestName": "Environmentalism"
+    },
+    {
+      "clubName": "Robotics Club",
+      "interestName": "Public Speaking"
+    },
+    {
+      "clubName": "Robotics Club",
+      "interestName": "Volunteering"
+    },
+    {
+      "clubName": "Robotics Club",
+      "interestName": "Digital Art"
+    },
+    {
+      "clubName": "Robotics Club",
+      "interestName": "Synchro Skate"
+    },
+    {
+      "clubName": "Astronomy Club",
+      "interestName": "Climbing"
+    },
+    {
+      "clubName": "Astronomy Club",
+      "interestName": "Robotics"
+    },
+    {
+      "clubName": "Astronomy Club",
+      "interestName": "Volleyball"
+    },
+    {
+      "clubName": "Astronomy Club",
+      "interestName": "Film Appreciation"
+    },
+    {
+      "clubName": "Astronomy Club",
+      "interestName": "Finance and Investing"
+    },
+    {
+      "clubName": "Creative Writing Club",
+      "interestName": "Climbing"
+    },
+    {
+      "clubName": "Creative Writing Club",
+      "interestName": "Music Production"
+    },
+    {
+      "clubName": "Creative Writing Club",
+      "interestName": "Wrestling"
+    },
+    {
+      "clubName": "Creative Writing Club",
+      "interestName": "Ultimate"
+    },
+    {
+      "clubName": "Creative Writing Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Film Appreciation Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Film Appreciation Club",
+      "interestName": "Volleyball"
+    },
+    {
+      "clubName": "Film Appreciation Club",
+      "interestName": "Philosophy"
+    },
+    {
+      "clubName": "Film Appreciation Club",
+      "interestName": "Public Speaking"
+    },
+    {
+      "clubName": "Film Appreciation Club",
+      "interestName": "Film Appreciation"
+    },
+    {
+      "clubName": "Board Games Club",
+      "interestName": "Philosophy"
+    },
+    {
+      "clubName": "Board Games Club",
+      "interestName": "Board Games"
+    },
+    {
+      "clubName": "Board Games Club",
+      "interestName": "Wrestling"
+    },
+    {
+      "clubName": "Board Games Club",
+      "interestName": "Film Appreciation"
+    },
+    {
+      "clubName": "Board Games Club",
+      "interestName": "Ultimate"
+    },
+    {
+      "clubName": "Public Speaking Club",
+      "interestName": "Climbing"
+    },
+    {
+      "clubName": "Public Speaking Club",
+      "interestName": "Chess"
+    },
+    {
+      "clubName": "Public Speaking Club",
+      "interestName": "Philosophy"
+    },
+    {
+      "clubName": "Public Speaking Club",
+      "interestName": "Mobile App Development"
+    },
+    {
+      "clubName": "Public Speaking Club",
+      "interestName": "Finance and Investing"
+    },
+    {
+      "clubName": "Finance & Investing Club",
+      "interestName": "Dance"
+    },
+    {
+      "clubName": "Finance & Investing Club",
+      "interestName": "Climbing"
+    },
+    {
+      "clubName": "Finance & Investing Club",
+      "interestName": "Environmentalism"
+    },
+    {
+      "clubName": "Finance & Investing Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Finance & Investing Club",
+      "interestName": "Board Games"
+    },
+    {
+      "clubName": "Mobile App Dev Club",
+      "interestName": "Film Appreciation"
+    },
+    {
+      "clubName": "Mobile App Dev Club",
+      "interestName": "Ultimate"
+    },
+    {
+      "clubName": "Mobile App Dev Club",
+      "interestName": "Climbing"
+    },
+    {
+      "clubName": "Mobile App Dev Club",
+      "interestName": "Board Games"
+    },
+    {
+      "clubName": "Mobile App Dev Club",
+      "interestName": "Digital Art"
+    },
+    {
+      "clubName": "Language Exchange Club",
+      "interestName": "Ultimate"
+    },
+    {
+      "clubName": "Language Exchange Club",
+      "interestName": "Board Games"
+    },
+    {
+      "clubName": "Language Exchange Club",
+      "interestName": "Mobile App Development"
+    },
+    {
+      "clubName": "Language Exchange Club",
+      "interestName": "Dance"
+    },
+    {
+      "clubName": "Language Exchange Club",
+      "interestName": "Environmentalism"
+    },
+    {
+      "clubName": "Philosophy Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "Philosophy Club",
+      "interestName": "Wrestling"
+    },
+    {
+      "clubName": "Philosophy Club",
+      "interestName": "Climbing"
+    },
+    {
+      "clubName": "Philosophy Club",
+      "interestName": "Environmentalism"
+    },
+    {
+      "clubName": "Philosophy Club",
+      "interestName": "Ultimate"
+    },
+    {
+      "clubName": "Music Production Club",
+      "interestName": "Robotics"
+    },
+    {
+      "clubName": "Music Production Club",
+      "interestName": "Mobile App Development"
+    },
+    {
+      "clubName": "Music Production Club",
+      "interestName": "Synchro Skate"
+    },
+    {
+      "clubName": "Music Production Club",
+      "interestName": "Tennis"
+    },
+    {
+      "clubName": "Music Production Club",
+      "interestName": "Philosophy"
+    },
+    {
+      "clubName": "Engineering Society",
+      "interestName": "Volleyball"
+    },
+    {
+      "clubName": "Engineering Society",
+      "interestName": "Badminton"
+    },
+    {
+      "clubName": "Engineering Society",
+      "interestName": "Philosophy"
+    },
+    {
+      "clubName": "Engineering Society",
+      "interestName": "Astronomy"
+    },
+    {
+      "clubName": "Engineering Society",
+      "interestName": "Ultimate"
+    },
+    {
+      "clubName": "UM Photo Club",
+      "interestName": "Mobile App Development"
+    },
+    {
+      "clubName": "UM Photo Club",
+      "interestName": "Rugby"
+    },
+    {
+      "clubName": "UM Photo Club",
+      "interestName": "Music Production"
+    },
+    {
+      "clubName": "UM Photo Club",
+      "interestName": "Digital Art"
+    },
+    {
+      "clubName": "UM Photo Club",
+      "interestName": "Chess"
+    },
+    {
+      "clubName": "UM Anime Club",
+      "interestName": "Dance"
+    },
+    {
+      "clubName": "UM Anime Club",
+      "interestName": "Creative Writing"
+    },
+    {
+      "clubName": "UM Anime Club",
+      "interestName": "Climbing"
+    },
+    {
+      "clubName": "UM Anime Club",
+      "interestName": "Mobile App Development"
+    },
+    {
+      "clubName": "UM Anime Club",
+      "interestName": "Wrestling"
+    },
+    {
+      "clubName": "Science Student Association",
+      "interestName": "Creative Writing"
+    },
+    {
+      "clubName": "Science Student Association",
+      "interestName": "Chess"
+    },
+    {
+      "clubName": "Science Student Association",
+      "interestName": "Film Appreciation"
+    },
+    {
+      "clubName": "Science Student Association",
+      "interestName": "Climbing"
+    },
+    {
+      "clubName": "Science Student Association",
+      "interestName": "Mobile App Development"
+    },
+    {
+      "clubName": "Women in STEM",
+      "interestName": "Music Production"
+    },
+    {
+      "clubName": "Women in STEM",
+      "interestName": "Chess"
+    },
+    {
+      "clubName": "Women in STEM",
+      "interestName": "Film Appreciation"
+    },
+    {
+      "clubName": "Women in STEM",
+      "interestName": "Soccer"
+    },
+    {
+      "clubName": "Women in STEM",
+      "interestName": "Robotics"
+    }
+  ],
+  "clubMemberships": [
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Badminton Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Badminton Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Climbing Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Climbing Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Dance Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Dance Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Rugby Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Rugby Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Soccer Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Soccer Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Synchro Skate Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Synchro Skate Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Tennis Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Tennis Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Ultimate Frisbee Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Ultimate Frisbee Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Volleyball Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Volleyball Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Wrestling Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Wrestling Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Chess Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Chess Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Environmental Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Environmental Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Digital Art Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Digital Art Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Volunteering Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Volunteering Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Robotics Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Robotics Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Astronomy Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Astronomy Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Creative Writing Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Creative Writing Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Film Appreciation Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Film Appreciation Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Board Games Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Board Games Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Public Speaking Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Public Speaking Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Finance & Investing Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Finance & Investing Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Mobile App Dev Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Mobile App Dev Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Language Exchange Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Language Exchange Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Philosophy Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Philosophy Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Music Production Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Music Production Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Engineering Society",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Engineering Society",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "UM Photo Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "UM Photo Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "UM Anime Club",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "UM Anime Club",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Science Student Association",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Science Student Association",
+      "role": "member"
+    },
+    {
+      "userEmail": "admin@umanitoba.ca",
+      "clubName": "Women in STEM",
+      "role": "admin"
+    },
+    {
+      "userEmail": "member@umanitoba.ca",
+      "clubName": "Women in STEM",
+      "role": "member"
+    }
+  ],
+  "clubPosts": [
+    {
+      "title": "Crime as exist friend.",
+      "content": "Party wall live idea. Fast teacher project simple.",
+      "date": "2026-03-09T08:16:32",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Badminton Club"
+    },
+    {
+      "title": "Hold east truth kid director let.",
+      "content": "Realize question real early pick improve sort. Lay market data partner.",
+      "date": "2026-03-25T14:23:03",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Badminton Club"
+    },
+    {
+      "title": "System lot art expect both lead.",
+      "content": "Final particular drop possible physical. Similar number despite Congress couple will.",
+      "date": "2026-04-20T00:15:29",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Badminton Club"
+    },
+    {
+      "title": "Girl involve fear success admit authority.",
+      "content": "Summer media conference PM. Every kitchen offer minute and receive bad.",
+      "date": "2026-09-04T00:36:33",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Badminton Club"
+    },
+    {
+      "title": "While unit experience.",
+      "content": "Parent program culture surface compare task government. The skill see protect find cover relate. Attention friend him office relationship woman.",
+      "date": "2026-04-29T10:27:33",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Climbing Club"
+    },
+    {
+      "title": "Experience return over prevent phone.",
+      "content": "Story future issue rich old. The kid century sit.",
+      "date": "2026-12-16T14:17:35",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Climbing Club"
+    },
+    {
+      "title": "Nice course property expect pick hit.",
+      "content": "Body test step fly great analysis include. Security prepare ability power green stock structure think. Stuff fear natural participant.",
+      "date": "2026-09-12T01:11:33",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Climbing Club"
+    },
+    {
+      "title": "Soldier hope seem law argue including professor style.",
+      "content": "Generation herself able thought pick.",
+      "date": "2026-10-18T21:44:12",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Climbing Club"
+    },
+    {
+      "title": "Walk we where nice organization safe wrong.",
+      "content": "Lot put car down medical join hit need.",
+      "date": "2026-12-16T23:06:57",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Dance Club"
+    },
+    {
+      "title": "May sure house yard sit provide.",
+      "content": "Ability he picture military century. Receive TV cultural method.",
+      "date": "2026-04-19T01:01:17",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Dance Club"
+    },
+    {
+      "title": "Wind Mr work guy.",
+      "content": "Bad animal choice senior among training.",
+      "date": "2026-06-23T18:53:38",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Rugby Club"
+    },
+    {
+      "title": "Above front central debate others.",
+      "content": "Security expert stop fall edge become. Around represent benefit unit.",
+      "date": "2026-10-21T05:36:45",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Rugby Club"
+    },
+    {
+      "title": "Finally read far six turn.",
+      "content": "Already big ground. Television theory economy. Walk detail option decision forward fly.",
+      "date": "2026-04-07T01:17:30",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Rugby Club"
+    },
+    {
+      "title": "Partner civil arrive add well entire.",
+      "content": "Research quickly argue. Know rate close of public. Research computer perhaps.",
+      "date": "2026-09-16T07:22:10",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Rugby Club"
+    },
+    {
+      "title": "Serve religious million sure.",
+      "content": "Coach decade director evening.",
+      "date": "2026-03-02T00:03:00",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Soccer Club"
+    },
+    {
+      "title": "Wife total important study personal choice.",
+      "content": "Time prepare our issue meeting feeling like. Indeed history dinner.",
+      "date": "2026-04-03T18:55:03",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Soccer Club"
+    },
+    {
+      "title": "Read care put.",
+      "content": "Man leave music unit give. Read responsibility action quite only fund.",
+      "date": "2026-03-13T01:31:53",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Synchro Skate Club"
+    },
+    {
+      "title": "Face beautiful want into where land.",
+      "content": "Even near adult piece sense add perform. Turn general top cell out.",
+      "date": "2026-10-31T11:20:01",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Synchro Skate Club"
+    },
+    {
+      "title": "Action risk discuss team mouth work also their.",
+      "content": "While set site trip entire.",
+      "date": "2026-11-20T12:58:51",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Synchro Skate Club"
+    },
+    {
+      "title": "Possible board able important time.",
+      "content": "Newspaper certainly art whole recognize. Care pattern herself doctor today defense. Act husband type couple.",
+      "date": "2026-05-20T19:01:17",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Synchro Skate Club"
+    },
+    {
+      "title": "Same sure actually message far or.",
+      "content": "Ask support American guy want either those area. Society travel behavior whose drop.",
+      "date": "2026-09-17T02:26:22",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Tennis Club"
+    },
+    {
+      "title": "Could decide phone form entire.",
+      "content": "Present pattern art plan business bill. Can western young organization pressure anything.",
+      "date": "2026-04-06T19:22:47",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Tennis Club"
+    },
+    {
+      "title": "Miss high about young again offer political.",
+      "content": "Against training customer accept. Mission officer individual impact if.",
+      "date": "2026-06-01T12:40:05",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Tennis Club"
+    },
+    {
+      "title": "Father different example whose land news agent.",
+      "content": "Second allow put participant together building. Memory image would your he development loss. Million score drug concern certain.",
+      "date": "2026-07-14T18:36:26",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Ultimate Frisbee Club"
+    },
+    {
+      "title": "Home our outside ask.",
+      "content": "Son large give space heart. Research news degree.",
+      "date": "2026-08-09T16:32:41",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Ultimate Frisbee Club"
+    },
+    {
+      "title": "Know discussion within economic build crime.",
+      "content": "Reality fine bank east both simply item. Officer travel writer catch begin page. Hope interview budget somebody mouth official. Style network claim idea.",
+      "date": "2026-11-18T08:24:44",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Ultimate Frisbee Club"
+    },
+    {
+      "title": "Participant go assume evidence.",
+      "content": "Successful guess enter method opportunity begin. Would camera notice. Sometimes they collection somebody drop them walk.",
+      "date": "2026-01-12T17:15:10",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Ultimate Frisbee Club"
+    },
+    {
+      "title": "Miss memory employee late plant.",
+      "content": "Federal worry always join east I morning. Official agreement research audience issue develop deal.",
+      "date": "2026-08-28T09:41:23",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Volleyball Club"
+    },
+    {
+      "title": "Nation very never.",
+      "content": "Business site oil free choice exactly yourself. Level realize wife factor voice. Be civil green understand near style.",
+      "date": "2026-02-22T17:33:53",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Volleyball Club"
+    },
+    {
+      "title": "Police fire quite practice know.",
+      "content": "Door best help edge total there. Third man free executive cold product know.",
+      "date": "2026-02-10T18:22:48",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Wrestling Club"
+    },
+    {
+      "title": "Staff accept pick dark its.",
+      "content": "Health role senior dog charge deep yard. View assume only rate. Result opportunity employee grow present.",
+      "date": "2026-04-29T16:58:22",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Wrestling Club"
+    },
+    {
+      "title": "Material quickly then both color player situation.",
+      "content": "Because huge hospital age system fight. Top manager upon politics society.",
+      "date": "2026-11-08T17:09:18",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Wrestling Club"
+    },
+    {
+      "title": "Girl culture key American group professor born.",
+      "content": "Two attorney most instead. Thing major wall easy challenge drop cup.",
+      "date": "2026-08-25T16:37:35",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Wrestling Club"
+    },
+    {
+      "title": "Government pick wife the property.",
+      "content": "Between third else note. Store long way one term seven consider. Soon catch on.",
+      "date": "2026-12-02T03:29:08",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Chess Club"
+    },
+    {
+      "title": "Side suggest bill style perhaps western room.",
+      "content": "Level quickly friend worker. Buy federal line to risk. Bank story difference two either yet.",
+      "date": "2026-09-04T15:19:56",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Chess Club"
+    },
+    {
+      "title": "Tend reflect national my fund nothing.",
+      "content": "Authority successful claim prevent west movie region. Might always property choose.",
+      "date": "2026-02-14T07:49:24",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Chess Club"
+    },
+    {
+      "title": "Wife Mrs story sport soldier.",
+      "content": "Behind them against position. From peace toward father whole recognize. General movement us relationship add left.",
+      "date": "2026-11-26T10:20:29",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Environmental Club"
+    },
+    {
+      "title": "Week artist student such.",
+      "content": "Quickly every involve end dark soon when difference. Hold although debate character. Individual certain rule night budget form specific staff.",
+      "date": "2026-08-27T17:43:38",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Environmental Club"
+    },
+    {
+      "title": "Bit compare art.",
+      "content": "Data agent method today onto civil. Entire challenge available in. Hair think series shake home never.",
+      "date": "2026-11-01T04:11:01",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Digital Art Club"
+    },
+    {
+      "title": "Current name act interesting cut determine language.",
+      "content": "Father spend history else entire source record. System actually order already citizen public production. Time almost maintain chance.",
+      "date": "2026-03-10T07:06:47",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Digital Art Club"
+    },
+    {
+      "title": "Available within produce often leg whether parent.",
+      "content": "Green take minute.",
+      "date": "2026-08-22T15:14:25",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Digital Art Club"
+    },
+    {
+      "title": "During attorney give.",
+      "content": "In message hard hot somebody safe. Top store of prove. Important artist affect drop interview.",
+      "date": "2026-07-22T13:20:30",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Volunteering Club"
+    },
+    {
+      "title": "Hit as garden successful why always gun.",
+      "content": "Since subject spend compare another. Writer available series reach sure.",
+      "date": "2026-11-22T04:30:02",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Volunteering Club"
+    },
+    {
+      "title": "Fight money beat expert challenge whole center.",
+      "content": "Election action yeah gun read though own. Particularly hundred information cut address control.",
+      "date": "2026-05-01T18:28:53",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Volunteering Club"
+    },
+    {
+      "title": "Possible political eye tonight alone instead where result.",
+      "content": "Partner into whose under couple though employee. Mind occur total fund sister general. Factor admit yard theory these bill successful. President continue environment hand rise minute bit like.",
+      "date": "2026-10-31T13:41:13",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Robotics Club"
+    },
+    {
+      "title": "Throw my long information cause.",
+      "content": "Can development degree board. Strategy protect rule seat president thank.",
+      "date": "2026-02-07T03:12:47",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Robotics Club"
+    },
+    {
+      "title": "Agree every skin gun expect nor save under.",
+      "content": "International five whether sit soon white beyond inside. Peace enter room always final.",
+      "date": "2026-06-23T14:31:24",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Robotics Club"
+    },
+    {
+      "title": "Enter before behind consider miss challenge.",
+      "content": "High rest its next run.",
+      "date": "2026-10-25T06:23:37",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Robotics Club"
+    },
+    {
+      "title": "Law ability participant herself TV gun.",
+      "content": "College radio arrive thing. Here positive message address worry group. Up difference remember west compare agency.",
+      "date": "2026-09-14T22:17:48",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Astronomy Club"
+    },
+    {
+      "title": "Gas type defense example edge though such.",
+      "content": "Reason weight character adult why. Recently training let participant. Word agent remember once. Check must newspaper sense top put.",
+      "date": "2026-07-18T05:11:38",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Astronomy Club"
+    },
+    {
+      "title": "Enter difficult strategy artist save training.",
+      "content": "Piece herself career lot whether return. Would tonight least particular sea paper stand. Yard response long. Good whatever fly.",
+      "date": "2026-02-09T04:23:21",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Creative Writing Club"
+    },
+    {
+      "title": "Forget ability none record type floor.",
+      "content": "Want political into itself here only quickly. Huge social something special as.",
+      "date": "2026-04-08T18:22:38",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Creative Writing Club"
+    },
+    {
+      "title": "Eight behavior weight own hot send.",
+      "content": "Red when light toward outside half than today. Cup treatment energy four. Speech part policy worker policy. Hour dog rich house issue your live.",
+      "date": "2026-12-28T17:15:35",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Creative Writing Club"
+    },
+    {
+      "title": "Size hope fund imagine center example.",
+      "content": "Foot challenge generation eat subject. Professor attorney thus moment buy. Language my large.",
+      "date": "2026-12-27T00:50:29",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Creative Writing Club"
+    },
+    {
+      "title": "Lead find order practice class tax college.",
+      "content": "Bit physical look scene open girl. Discussion skin in happy. Car age employee clearly.",
+      "date": "2026-02-17T03:02:48",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Film Appreciation Club"
+    },
+    {
+      "title": "Rate which just after.",
+      "content": "Pretty husband institution modern guess summer. Impact I effort painting worker small.",
+      "date": "2026-02-15T14:46:35",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Film Appreciation Club"
+    },
+    {
+      "title": "Control opportunity teach born entire foreign.",
+      "content": "After have current south responsibility officer. Wish everyone clear best majority.",
+      "date": "2026-05-12T10:24:37",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Film Appreciation Club"
+    },
+    {
+      "title": "Store total recognize forget from pick Mrs.",
+      "content": "Enjoy play social senior. Travel rule course on use among.",
+      "date": "2026-05-27T05:34:07",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Board Games Club"
+    },
+    {
+      "title": "No a yes kind return per.",
+      "content": "Weight available share today cause hope raise behavior. Throughout wait question cup front move. Free official Republican next. Fear behavior save they.",
+      "date": "2026-03-18T05:11:38",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Board Games Club"
+    },
+    {
+      "title": "Exist animal bring suggest next here whether all.",
+      "content": "Tree technology office adult great line face see. Movement travel affect continue woman father decision. Popular policy American return spring. Well sport director white bag front.",
+      "date": "2026-08-05T12:51:34",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Public Speaking Club"
+    },
+    {
+      "title": "Begin and security national range central.",
+      "content": "Physical painting represent. Air ten wrong our.",
+      "date": "2026-03-20T05:00:25",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Public Speaking Club"
+    },
+    {
+      "title": "Picture performance effort.",
+      "content": "Likely herself force including home. Anyone chair result we tough lead. Throughout something free throw.",
+      "date": "2026-05-30T12:48:38",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Public Speaking Club"
+    },
+    {
+      "title": "Threat kitchen ball himself mouth.",
+      "content": "Book watch score evening population.",
+      "date": "2026-12-07T01:11:30",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Public Speaking Club"
+    },
+    {
+      "title": "Reality truth attack good gas reach production.",
+      "content": "Her allow television read. His course third pay PM.",
+      "date": "2026-03-17T22:45:39",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Finance & Investing Club"
+    },
+    {
+      "title": "Data born look executive.",
+      "content": "Area other well. Issue TV sign leader actually soon sure.",
+      "date": "2026-05-18T00:55:08",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Finance & Investing Club"
+    },
+    {
+      "title": "Listen machine teacher side sense catch strategy.",
+      "content": "In production end woman really single.",
+      "date": "2026-01-04T22:56:50",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Finance & Investing Club"
+    },
+    {
+      "title": "She main simply against reason.",
+      "content": "Realize knowledge fact key specific any. Tax town partner foot foot despite over. Tend almost game side factor name group. Adult according task ok little past event.",
+      "date": "2026-09-04T00:21:20",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Mobile App Dev Club"
+    },
+    {
+      "title": "Rest system maintain concern conference.",
+      "content": "Meeting single free time management. While improve protect once.",
+      "date": "2026-03-20T01:10:19",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Mobile App Dev Club"
+    },
+    {
+      "title": "Community Republican imagine exist industry store as.",
+      "content": "Family quality produce near yet owner. Matter keep must. By institution choice upon.",
+      "date": "2026-05-26T20:41:24",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Mobile App Dev Club"
+    },
+    {
+      "title": "Treatment four shake capital.",
+      "content": "Throughout though national item win approach page. Customer speak goal movement start. Everybody performance chair I alone.",
+      "date": "2026-06-09T23:48:19",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Mobile App Dev Club"
+    },
+    {
+      "title": "Exactly as important gas news.",
+      "content": "Church environment support seek fill. Strategy few result list full on. Short speech side professor.",
+      "date": "2026-07-13T19:22:53",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Language Exchange Club"
+    },
+    {
+      "title": "Identify drug group response.",
+      "content": "However though sometimes remember capital. West mother road standard just about development. Plan bank who color either everybody peace.",
+      "date": "2026-09-01T20:03:34",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Language Exchange Club"
+    },
+    {
+      "title": "Expect itself avoid hundred next.",
+      "content": "College bill wind stay himself animal. Soon heart practice soon hope wonder know.",
+      "date": "2026-09-23T15:12:31",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Language Exchange Club"
+    },
+    {
+      "title": "Role fight involve.",
+      "content": "Election get everyone meet baby. Practice ground discover phone alone rock.",
+      "date": "2026-02-11T23:19:17",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Philosophy Club"
+    },
+    {
+      "title": "Low serve away huge.",
+      "content": "That glass together degree possible life current. Information explain sure president activity. Fall better near one.",
+      "date": "2026-03-08T01:37:17",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Philosophy Club"
+    },
+    {
+      "title": "Price forget on for entire.",
+      "content": "Forward side everybody mission investment. Including act above church game. Us focus mother story production write like.",
+      "date": "2026-11-10T00:40:42",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Music Production Club"
+    },
+    {
+      "title": "Take food seem health.",
+      "content": "Government avoid skill enjoy possible smile.",
+      "date": "2026-06-15T14:27:45",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Music Production Club"
+    },
+    {
+      "title": "Turn language similar senior.",
+      "content": "Find training throw traditional young wear case. Ago official same firm century mother different.",
+      "date": "2026-11-03T05:18:33",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Engineering Society"
+    },
+    {
+      "title": "Audience contain white area keep speech.",
+      "content": "Cell participant present college money your. Bill help others fire serve view small around.",
+      "date": "2026-08-24T09:30:22",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Engineering Society"
+    },
+    {
+      "title": "Central production lot.",
+      "content": "Today notice simple all deep consumer. Challenge let your evening will remain nearly.",
+      "date": "2026-05-11T11:27:41",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Engineering Society"
+    },
+    {
+      "title": "When message social road risk.",
+      "content": "Than card strong. Guy evening many meet.",
+      "date": "2026-01-19T23:14:16",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "UM Photo Club"
+    },
+    {
+      "title": "Idea sister inside meeting edge character agreement road.",
+      "content": "Card she despite similar civil reality wife him. Land single evidence reality base Congress. School newspaper test then main whom give.",
+      "date": "2026-10-15T09:07:42",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "UM Photo Club"
+    },
+    {
+      "title": "West center goal million east region beyond.",
+      "content": "Wish investment head us throw center. Safe where rate for use personal anything. Late toward fight special player include. Young would challenge from course enjoy.",
+      "date": "2026-04-13T02:42:21",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "UM Anime Club"
+    },
+    {
+      "title": "Return structure region option series.",
+      "content": "Which artist hospital continue customer it. Sit back huge cold speak. Speech face at hold could. Third production model various yet theory treat.",
+      "date": "2026-10-01T13:49:23",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "UM Anime Club"
+    },
+    {
+      "title": "Trade teacher make single.",
+      "content": "Above hit common true administration expert. All agree speech most father.",
+      "date": "2026-04-29T12:09:37",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "UM Anime Club"
+    },
+    {
+      "title": "Business without ago Congress before.",
+      "content": "Economic both ground tree blood.",
+      "date": "2026-11-20T07:04:30",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Science Student Association"
+    },
+    {
+      "title": "Thousand professor bit action size mission hot Republican.",
+      "content": "Clear question tree opportunity. Treatment blood opportunity student finish.",
+      "date": "2026-03-28T13:31:46",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Science Student Association"
+    },
+    {
+      "title": "May son final usually sign.",
+      "content": "Indicate for idea interest. I red material dark side of available. Ten answer sea cup Democrat former.",
+      "date": "2026-01-15T05:11:56",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Science Student Association"
+    },
+    {
+      "title": "Bit let determine site staff check game.",
+      "content": "Same my then too trouble car standard.",
+      "date": "2026-03-10T23:12:42",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Science Student Association"
+    },
+    {
+      "title": "Dog worry throughout could organization.",
+      "content": "Test despite drop this letter plant dinner. Sign their among.",
+      "date": "2026-09-05T14:41:57",
+      "imgUrl": "https://dummyimage.com/800x600",
+      "clubName": "Women in STEM"
+    },
+    {
+      "title": "Movie letter create money station seven.",
+      "content": "Develop month little key. Need coach car each. Television owner expect game.",
+      "date": "2026-02-26T18:06:10",
+      "imgUrl": "https://placeimg.com/800/600/any",
+      "clubName": "Women in STEM"
+    },
+    {
+      "title": "Past avoid father same say simple same.",
+      "content": "About senior traditional them keep. Serious will the born parent half seat. Ball remain design loss.",
+      "date": "2026-05-18T13:19:22",
+      "imgUrl": "https://www.lorempixel.com/800/600",
+      "clubName": "Women in STEM"
+    },
+    {
+      "title": "Difficult personal ever later professor side.",
+      "content": "We structure it laugh girl sometimes sometimes. Doctor usually performance cause nice thank police. Science computer decide grow page decision leg current.",
+      "date": "2026-01-23T17:23:44",
+      "imgUrl": "https://placekitten.com/800/600",
+      "clubName": "Women in STEM"
+    }
+  ],
+  "clubEvents": [
+    {
+      "title": "Optional discrete emulation",
+      "description": "Yard dream another learn resource difference last. Before serious now director information level.",
+      "date": "2026-07-16T04:26:29",
+      "location": "925 Hines Estate\nHenrychester, VA 78770",
+      "clubName": "Badminton Club"
+    },
+    {
+      "title": "Programmable needs-based focus group",
+      "description": "Entire million meeting raise Mr. Mouth cover tough.",
+      "date": "2026-10-15T15:25:48",
+      "location": "207 Hampton Alley Suite 842\nLeachville, MS 18781",
+      "clubName": "Badminton Club"
+    },
+    {
+      "title": "Secured non-volatile knowledgebase",
+      "description": "Because theory in and hand couple use wear. No poor soldier church chance glass treatment.",
+      "date": "2026-12-17T01:07:51",
+      "location": "74558 Alexander Haven Suite 178\nWest Roberto, IA 28121",
+      "clubName": "Badminton Club"
+    },
+    {
+      "title": "Diverse multi-tasking contingency",
+      "description": "Alone despite say individual require environment worker four. Figure here whatever.",
+      "date": "2026-10-20T04:25:41",
+      "location": "36931 Bell Coves Suite 497\nMendezfort, IA 09738",
+      "clubName": "Badminton Club"
+    },
+    {
+      "title": "Pre-emptive client-server alliance",
+      "description": "Begin establish I.",
+      "date": "2026-08-19T06:46:22",
+      "location": "5913 Ian Freeway\nSteveburgh, HI 03157",
+      "clubName": "Climbing Club"
+    },
+    {
+      "title": "Customizable zero tolerance time-frame",
+      "description": "Seek full we attack.",
+      "date": "2026-10-03T13:25:10",
+      "location": "02019 Joshua Point\nLake Caitlyn, SD 05076",
+      "clubName": "Climbing Club"
+    },
+    {
+      "title": "Automated actuating conglomeration",
+      "description": "By black keep.",
+      "date": "2026-11-08T09:59:54",
+      "location": "5358 Jenna Fords\nPort Kristaton, NY 83947",
+      "clubName": "Dance Club"
+    },
+    {
+      "title": "De-engineered motivating encryption",
+      "description": "Friend indeed campaign benefit itself something.",
+      "date": "2026-04-01T06:20:23",
+      "location": "5800 Summers Ways Suite 489\nPort Mark, AR 98393",
+      "clubName": "Dance Club"
+    },
+    {
+      "title": "Configurable upward-trending alliance",
+      "description": "Toward table blood activity. Agency head sometimes money.",
+      "date": "2026-10-01T23:02:52",
+      "location": "485 Crane Park\nNew Robert, AL 68796",
+      "clubName": "Dance Club"
+    },
+    {
+      "title": "Profit-focused analyzing function",
+      "description": "Medical sometimes billion reveal wall friend. That wait set wall trade impact first.",
+      "date": "2026-05-18T06:25:49",
+      "location": "122 Ann Highway\nMasonmouth, IA 92409",
+      "clubName": "Rugby Club"
+    },
+    {
+      "title": "Operative intangible conglomeration",
+      "description": "Ask unit language according section area still. Structure skill wish claim once service voice.",
+      "date": "2026-06-05T00:18:26",
+      "location": "21164 Morrison Coves Suite 982\nPort Audreyview, KS 85627",
+      "clubName": "Rugby Club"
+    },
+    {
+      "title": "Configurable methodical moderator",
+      "description": "Better political growth from. Policy day four.",
+      "date": "2026-02-10T19:05:26",
+      "location": "3934 Black Station\nHicksmouth, HI 75621",
+      "clubName": "Rugby Club"
+    },
+    {
+      "title": "Face-to-face impactful matrix",
+      "description": "Movement evidence each. Why although also general financial.",
+      "date": "2026-04-21T21:36:00",
+      "location": "987 Dawson Forest Suite 509\nJakeville, MI 82190",
+      "clubName": "Soccer Club"
+    },
+    {
+      "title": "Cloned composite initiative",
+      "description": "Clear allow tree suffer state sign southern direction. Pay study happen full true safe recently night.",
+      "date": "2026-09-18T16:44:20",
+      "location": "930 Julie Crossing Apt. 300\nAmyville, OR 45888",
+      "clubName": "Soccer Club"
+    },
+    {
+      "title": "Face-to-face eco-centric ability",
+      "description": "Key nation book there study.",
+      "date": "2026-05-14T22:54:12",
+      "location": "778 Moore Mills\nLake Christopher, AL 66150",
+      "clubName": "Soccer Club"
+    },
+    {
+      "title": "Cross-platform multimedia functionalities",
+      "description": "Air final maintain since.",
+      "date": "2026-02-01T04:57:54",
+      "location": "PSC 0610, Box 5124\nAPO AE 00646",
+      "clubName": "Soccer Club"
+    },
+    {
+      "title": "Programmable static capability",
+      "description": "Success nature lay ground.",
+      "date": "2026-04-03T13:06:35",
+      "location": "89654 Schmidt Curve\nEast David, MO 34703",
+      "clubName": "Synchro Skate Club"
+    },
+    {
+      "title": "Down-sized bottom-line hub",
+      "description": "Fact matter ready song single.",
+      "date": "2026-12-19T05:52:51",
+      "location": "42357 Frank Inlet\nPort Matthewmouth, LA 28674",
+      "clubName": "Synchro Skate Club"
+    },
+    {
+      "title": "Total next generation intranet",
+      "description": "Foot again almost certain. Act stop total help.",
+      "date": "2026-06-02T04:58:37",
+      "location": "255 Howard Heights\nSouth James, MI 78829",
+      "clubName": "Tennis Club"
+    },
+    {
+      "title": "Triple-buffered incremental definition",
+      "description": "Anyone price do safe. Man newspaper bed oil image provide.",
+      "date": "2026-10-05T13:07:15",
+      "location": "23389 Lisa Vista Apt. 946\nZacharyhaven, OK 04774",
+      "clubName": "Tennis Club"
+    },
+    {
+      "title": "Multi-lateral eco-centric system engine",
+      "description": "Part happen positive.",
+      "date": "2026-12-25T03:06:00",
+      "location": "5629 Brittney Mills Suite 883\nLake Justintown, TN 65858",
+      "clubName": "Tennis Club"
+    },
+    {
+      "title": "Devolved transitional software",
+      "description": "Evidence prevent morning team force standard.",
+      "date": "2026-08-09T20:41:14",
+      "location": "4136 Bradley Prairie\nSandovalshire, WV 53476",
+      "clubName": "Ultimate Frisbee Club"
+    },
+    {
+      "title": "Customer-focused uniform intranet",
+      "description": "To cut around fill.",
+      "date": "2026-04-26T15:51:03",
+      "location": "6656 West Gardens\nLake Michaelborough, ME 76220",
+      "clubName": "Ultimate Frisbee Club"
+    },
+    {
+      "title": "Distributed interactive knowledgebase",
+      "description": "Occur which exist others summer training. Street happy argue customer.",
+      "date": "2026-12-07T21:49:16",
+      "location": "USNS Duarte\nFPO AE 96392",
+      "clubName": "Ultimate Frisbee Club"
+    },
+    {
+      "title": "Multi-tiered user-facing pricing structure",
+      "description": "Box agent side word brother baby. Training ok weight sometimes.",
+      "date": "2026-01-29T15:07:33",
+      "location": "9427 Griffin Land Apt. 038\nNorth Timothy, CT 71999",
+      "clubName": "Ultimate Frisbee Club"
+    },
+    {
+      "title": "Proactive well-modulated solution",
+      "description": "Nice else first standard.",
+      "date": "2026-12-10T14:56:13",
+      "location": "147 Richardson Oval\nNorth Erin, ID 87668",
+      "clubName": "Volleyball Club"
+    },
+    {
+      "title": "Cloned didactic focus group",
+      "description": "Finally huge why hope office health. Feeling could religious police.",
+      "date": "2026-08-20T06:45:56",
+      "location": "80317 Antonio Unions\nAndersonland, AR 29322",
+      "clubName": "Volleyball Club"
+    },
+    {
+      "title": "Versatile attitude-oriented process improvement",
+      "description": "With project realize may win.",
+      "date": "2026-01-30T00:32:42",
+      "location": "2198 Megan Glens\nTownsendchester, MT 02040",
+      "clubName": "Volleyball Club"
+    },
+    {
+      "title": "Profound background process improvement",
+      "description": "Phone choice read time about two senior.",
+      "date": "2026-11-01T21:20:00",
+      "location": "76981 Toni Cliff\nChristinachester, WA 56682",
+      "clubName": "Volleyball Club"
+    },
+    {
+      "title": "Centralized object-oriented synergy",
+      "description": "Tell blue decision. List room cause believe.",
+      "date": "2026-09-04T21:24:33",
+      "location": "52387 Jessica Ford Apt. 520\nStevenside, MS 17494",
+      "clubName": "Wrestling Club"
+    },
+    {
+      "title": "Public-key neutral circuit",
+      "description": "Teach common song also Democrat conference. Leader worker start.",
+      "date": "2026-07-19T21:02:14",
+      "location": "676 Bonnie Locks\nRobertschester, NH 32886",
+      "clubName": "Wrestling Club"
+    },
+    {
+      "title": "Down-sized client-driven core",
+      "description": "Put send car him expert tree. Minute capital significant election material smile owner.",
+      "date": "2026-11-26T10:51:10",
+      "location": "37585 Lisa Inlet Apt. 714\nPort Andrewview, NJ 69221",
+      "clubName": "Chess Club"
+    },
+    {
+      "title": "Reverse-engineered bifurcated parallelism",
+      "description": "Reveal he oil study mean consider. Identify window amount election final able behind sell.",
+      "date": "2026-06-25T02:11:30",
+      "location": "23839 Brian Lodge\nClarkstad, NV 98464",
+      "clubName": "Chess Club"
+    },
+    {
+      "title": "Upgradable multi-state hierarchy",
+      "description": "Evidence lot our tax concern baby.",
+      "date": "2026-06-06T00:33:37",
+      "location": "9394 Diana Manor Suite 810\nWest Jessicaberg, CA 24409",
+      "clubName": "Chess Club"
+    },
+    {
+      "title": "Compatible transitional archive",
+      "description": "Article speak more series adult.",
+      "date": "2026-06-28T23:50:59",
+      "location": "0082 Katherine Squares\nPacefurt, PA 84642",
+      "clubName": "Chess Club"
+    },
+    {
+      "title": "Front-line holistic Local Area Network",
+      "description": "Position investment personal after.",
+      "date": "2026-12-19T16:28:36",
+      "location": "8497 Yang Mountains\nCarlland, AL 80053",
+      "clubName": "Environmental Club"
+    },
+    {
+      "title": "Multi-lateral web-enabled algorithm",
+      "description": "Authority break factor form political tend study.",
+      "date": "2026-08-11T23:48:52",
+      "location": "9890 Rivera Hills\nEast Austin, WV 17705",
+      "clubName": "Environmental Club"
+    },
+    {
+      "title": "Universal fault-tolerant groupware",
+      "description": "Minute price participant travel we.",
+      "date": "2026-09-17T06:07:08",
+      "location": "334 Ralph Forge\nNorth Leslie, SC 63772",
+      "clubName": "Digital Art Club"
+    },
+    {
+      "title": "Exclusive radical capability",
+      "description": "Agent message accept it into.",
+      "date": "2026-10-17T18:54:40",
+      "location": "569 Marcus Fords Suite 642\nRobertborough, MO 67128",
+      "clubName": "Digital Art Club"
+    },
+    {
+      "title": "Innovative client-server product",
+      "description": "Seven manage cause everybody.",
+      "date": "2026-11-07T10:24:19",
+      "location": "6107 Jillian Centers Suite 931\nAnthonyshire, WY 15606",
+      "clubName": "Volunteering Club"
+    },
+    {
+      "title": "User-friendly zero tolerance hub",
+      "description": "Stuff new before impact. Policy I from practice beyond building behavior.",
+      "date": "2026-04-14T01:47:10",
+      "location": "390 Jones Tunnel Suite 349\nWest Elizabeth, VT 41258",
+      "clubName": "Volunteering Club"
+    },
+    {
+      "title": "Networked stable task-force",
+      "description": "Action because property tend town would foot.",
+      "date": "2026-01-13T10:04:26",
+      "location": "4222 Wilson Field\nDakotaton, IL 38806",
+      "clubName": "Volunteering Club"
+    },
+    {
+      "title": "Object-based clear-thinking model",
+      "description": "Which state bank rock. Own many Republican generation girl because attorney.",
+      "date": "2026-09-18T14:38:09",
+      "location": "2606 Lopez Grove\nSouth Tonistad, WV 60004",
+      "clubName": "Volunteering Club"
+    },
+    {
+      "title": "Centralized needs-based forecast",
+      "description": "Over situation religious black a imagine.",
+      "date": "2026-04-03T12:26:34",
+      "location": "533 Dustin Ridge\nBradfordmouth, MN 93048",
+      "clubName": "Robotics Club"
+    },
+    {
+      "title": "Phased fresh-thinking focus group",
+      "description": "Out produce war stay join language.",
+      "date": "2026-06-05T04:03:30",
+      "location": "943 Tamara Stream\nGravesfurt, TN 80322",
+      "clubName": "Robotics Club"
+    },
+    {
+      "title": "Business-focused asymmetric budgetary management",
+      "description": "Better economic draw specific structure.",
+      "date": "2026-02-07T11:57:46",
+      "location": "653 Samantha Lights Apt. 711\nSotoborough, GA 90717",
+      "clubName": "Robotics Club"
+    },
+    {
+      "title": "Diverse asynchronous conglomeration",
+      "description": "Citizen statement door.",
+      "date": "2026-12-25T03:19:57",
+      "location": "95080 Chase Pine\nWilliamfurt, NM 13880",
+      "clubName": "Astronomy Club"
+    },
+    {
+      "title": "Monitored regional access",
+      "description": "Ask reason return sometimes tend young skin. Consumer already build hair.",
+      "date": "2026-02-20T01:23:38",
+      "location": "47066 Elizabeth Common\nJodichester, IA 85702",
+      "clubName": "Astronomy Club"
+    },
+    {
+      "title": "Universal 24/7 policy",
+      "description": "Clear study give why. Piece president full begin much consider economy.",
+      "date": "2026-10-28T13:48:46",
+      "location": "9578 Williams Meadows Apt. 839\nEast Philip, CT 96120",
+      "clubName": "Astronomy Club"
+    },
+    {
+      "title": "Monitored 4thgeneration success",
+      "description": "Campaign modern allow edge hospital.",
+      "date": "2026-10-30T03:41:15",
+      "location": "472 Brandy Union\nEast Kathleen, AL 41034",
+      "clubName": "Astronomy Club"
+    },
+    {
+      "title": "Digitized even-keeled Internet solution",
+      "description": "Rather late certain time spend author remain different. Business today process heart door cold finally.",
+      "date": "2026-07-02T22:36:26",
+      "location": "185 Daniel Plaza\nJonesburgh, WI 73169",
+      "clubName": "Creative Writing Club"
+    },
+    {
+      "title": "Multi-tiered empowering service-desk",
+      "description": "Coach through Congress language.",
+      "date": "2026-08-04T17:15:32",
+      "location": "19494 Kennedy Forge\nPaulview, DC 26663",
+      "clubName": "Creative Writing Club"
+    },
+    {
+      "title": "Fully-configurable impactful project",
+      "description": "Woman meet group never interest doctor. Four several light model yet house anything.",
+      "date": "2026-08-17T03:19:55",
+      "location": "5347 Heather Spurs\nPort Jacquelineberg, NV 14047",
+      "clubName": "Creative Writing Club"
+    },
+    {
+      "title": "Sharable 6thgeneration framework",
+      "description": "Child policy pay road. Both none may charge every wall.",
+      "date": "2026-06-29T07:40:17",
+      "location": "5090 Smith Ports Apt. 173\nWest Nicole, DC 54824",
+      "clubName": "Creative Writing Club"
+    },
+    {
+      "title": "De-engineered value-added process improvement",
+      "description": "Eight sign toward other parent. Cut week become politics force.",
+      "date": "2026-06-18T06:37:40",
+      "location": "8408 Johnson Walk Apt. 180\nSouth Johnshire, MS 98038",
+      "clubName": "Film Appreciation Club"
+    },
+    {
+      "title": "Upgradable even-keeled time-frame",
+      "description": "Kind away fund bed include statement yourself.",
+      "date": "2026-03-11T15:43:51",
+      "location": "02065 Young Corners\nPort Kyle, NE 93971",
+      "clubName": "Film Appreciation Club"
+    },
+    {
+      "title": "Vision-oriented 3rdgeneration forecast",
+      "description": "Until far soon fill. Letter leader or good history think someone.",
+      "date": "2026-04-03T17:34:02",
+      "location": "5935 Lee Roads\nSouth Karaton, SC 83764",
+      "clubName": "Film Appreciation Club"
+    },
+    {
+      "title": "Persevering mission-critical firmware",
+      "description": "Entire knowledge response out part training. Most set bad it increase feel own.",
+      "date": "2026-08-08T12:48:53",
+      "location": "79415 David Square\nWest Deannabury, VT 52380",
+      "clubName": "Board Games Club"
+    },
+    {
+      "title": "Upgradable high-level solution",
+      "description": "Student not challenge practice human. Third bag maintain often while western.",
+      "date": "2026-02-25T13:29:46",
+      "location": "PSC 3007, Box 7245\nAPO AE 80655",
+      "clubName": "Board Games Club"
+    },
+    {
+      "title": "Cross-platform didactic model",
+      "description": "Change left catch institution federal.",
+      "date": "2026-02-06T22:41:53",
+      "location": "93072 Carl Center Apt. 930\nEast Robertburgh, AR 53249",
+      "clubName": "Public Speaking Club"
+    },
+    {
+      "title": "Object-based reciprocal functionalities",
+      "description": "Vote argue color beautiful.",
+      "date": "2026-07-11T17:38:00",
+      "location": "6017 Maddox Mountains\nAndreaberg, MD 78075",
+      "clubName": "Public Speaking Club"
+    },
+    {
+      "title": "Multi-layered client-driven intranet",
+      "description": "Live trip never degree add computer foot.",
+      "date": "2026-10-02T11:00:40",
+      "location": "PSC 0569, Box 7142\nAPO AA 93107",
+      "clubName": "Public Speaking Club"
+    },
+    {
+      "title": "Up-sized disintermediate hardware",
+      "description": "Nothing physical matter. Set maybe know hit hold collection.",
+      "date": "2026-08-18T04:26:33",
+      "location": "102 Meyers Shoal\nWest Markshire, IL 60392",
+      "clubName": "Finance & Investing Club"
+    },
+    {
+      "title": "Profit-focused global definition",
+      "description": "Wall smile although minute. Bed enter responsibility process.",
+      "date": "2026-12-21T07:54:47",
+      "location": "99915 Michael Roads Apt. 644\nWest Sandrabury, AL 57076",
+      "clubName": "Finance & Investing Club"
+    },
+    {
+      "title": "Optimized fresh-thinking open system",
+      "description": "Marriage Congress religious way avoid figure again decision.",
+      "date": "2026-03-21T11:00:01",
+      "location": "4833 Connie Valleys Suite 432\nSuzannehaven, HI 42609",
+      "clubName": "Finance & Investing Club"
+    },
+    {
+      "title": "Inverse executive success",
+      "description": "Last responsibility civil production science behind school. Card step these thousand.",
+      "date": "2026-03-27T22:56:41",
+      "location": "106 Mary Centers Suite 766\nSamanthaborough, SD 89219",
+      "clubName": "Finance & Investing Club"
+    },
+    {
+      "title": "Persistent disintermediate encryption",
+      "description": "Base run strong increase. For whole beautiful ball ever second strong me.",
+      "date": "2026-07-05T07:56:44",
+      "location": "54506 Lindsay Harbor\nGeorgeshire, OH 91018",
+      "clubName": "Mobile App Dev Club"
+    },
+    {
+      "title": "Devolved optimizing firmware",
+      "description": "Notice town few. Population doctor miss traditional include.",
+      "date": "2026-03-23T17:23:31",
+      "location": "Unit 4299 Box 8203\nDPO AA 40053",
+      "clubName": "Mobile App Dev Club"
+    },
+    {
+      "title": "Horizontal bifurcated Local Area Network",
+      "description": "Leave tell defense arrive build popular. What seek sometimes.",
+      "date": "2026-12-20T05:19:32",
+      "location": "2181 Thomas Coves\nMichellefort, MS 37705",
+      "clubName": "Language Exchange Club"
+    },
+    {
+      "title": "Adaptive directional info-mediaries",
+      "description": "Artist sometimes past and. Because Mr sea list challenge white.",
+      "date": "2026-07-01T14:16:16",
+      "location": "6502 Thomas Squares Apt. 643\nSouth Saramouth, NY 78756",
+      "clubName": "Language Exchange Club"
+    },
+    {
+      "title": "Sharable bottom-line conglomeration",
+      "description": "Song plan quickly while movement. Student public indicate least.",
+      "date": "2026-07-09T01:58:12",
+      "location": "018 Mills Terrace\nNorth Aaron, DE 64022",
+      "clubName": "Language Exchange Club"
+    },
+    {
+      "title": "Configurable next generation encryption",
+      "description": "Six big citizen benefit.",
+      "date": "2026-08-09T07:23:10",
+      "location": "0310 Nicole Throughway Apt. 849\nHurstside, KS 85267",
+      "clubName": "Language Exchange Club"
+    },
+    {
+      "title": "Vision-oriented explicit workforce",
+      "description": "Cost night side manage bar.",
+      "date": "2026-07-16T23:51:02",
+      "location": "20688 Stevenson Mill\nCookechester, WV 43417",
+      "clubName": "Philosophy Club"
+    },
+    {
+      "title": "Cross-group tangible support",
+      "description": "Late to bed wonder side own statement respond.",
+      "date": "2026-04-27T12:05:01",
+      "location": "27683 Jones Corners\nEast Cameron, CO 59034",
+      "clubName": "Philosophy Club"
+    },
+    {
+      "title": "Customer-focused uniform attitude",
+      "description": "Describe low left environment. Shoulder type wall myself general company.",
+      "date": "2026-06-14T05:12:42",
+      "location": "Unit 6197 Box 3271\nDPO AE 44495",
+      "clubName": "Philosophy Club"
+    },
+    {
+      "title": "Synchronized bandwidth-monitored encryption",
+      "description": "With for bill can.",
+      "date": "2026-07-12T15:28:27",
+      "location": "868 Mccarty Terrace Suite 741\nPort Timothy, TN 80587",
+      "clubName": "Music Production Club"
+    },
+    {
+      "title": "Enhanced zero-defect encryption",
+      "description": "Century than fast still according.",
+      "date": "2026-10-19T07:21:26",
+      "location": "24075 Valencia Springs Suite 342\nPort Veronicatown, MI 83938",
+      "clubName": "Music Production Club"
+    },
+    {
+      "title": "Cross-platform full-range concept",
+      "description": "Record guy fine provide southern.",
+      "date": "2026-08-22T08:57:54",
+      "location": "7221 Poole Glens\nEdwardsshire, CT 42046",
+      "clubName": "Music Production Club"
+    },
+    {
+      "title": "Front-line web-enabled software",
+      "description": "Nor TV ball. Near level course space though.",
+      "date": "2026-03-03T14:16:17",
+      "location": "Unit 5674 Box 9608\nDPO AA 12493",
+      "clubName": "Music Production Club"
+    },
+    {
+      "title": "Vision-oriented foreground open system",
+      "description": "Deal understand woman science beyond next. Effect bar hold.",
+      "date": "2026-10-25T15:36:04",
+      "location": "6002 Shannon Isle Suite 590\nAndersonmouth, VA 52544",
+      "clubName": "Engineering Society"
+    },
+    {
+      "title": "Front-line empowering solution",
+      "description": "Executive big side ability green smile describe project. Well teach make few every key.",
+      "date": "2026-07-20T12:55:22",
+      "location": "USS Harris\nFPO AP 71418",
+      "clubName": "Engineering Society"
+    },
+    {
+      "title": "User-friendly secondary help-desk",
+      "description": "Ever together compare apply record weight leg.",
+      "date": "2026-06-08T18:34:01",
+      "location": "PSC 6789, Box 7448\nAPO AE 25728",
+      "clubName": "Engineering Society"
+    },
+    {
+      "title": "Integrated coherent functionalities",
+      "description": "Family can this happen writer bill.",
+      "date": "2026-06-11T14:38:44",
+      "location": "Unit 5009 Box 2772\nDPO AE 24717",
+      "clubName": "UM Photo Club"
+    },
+    {
+      "title": "Multi-channeled optimal task-force",
+      "description": "Which prove many travel cold most agent.",
+      "date": "2026-03-03T00:40:37",
+      "location": "915 Rogers Plains Apt. 073\nHuntermouth, HI 90629",
+      "clubName": "UM Photo Club"
+    },
+    {
+      "title": "Versatile intermediate approach",
+      "description": "Cost board cultural amount house level. Most travel then room clear star anything.",
+      "date": "2026-06-16T11:20:52",
+      "location": "770 Rachel Extension Suite 071\nAndreamouth, ID 94825",
+      "clubName": "UM Photo Club"
+    },
+    {
+      "title": "Open-architected cohesive interface",
+      "description": "Who close cultural beat research property have.",
+      "date": "2026-05-29T19:15:37",
+      "location": "56951 Jones Center\nWest Davidfort, CT 33178",
+      "clubName": "UM Photo Club"
+    },
+    {
+      "title": "Horizontal web-enabled architecture",
+      "description": "Report speech mind imagine sell while.",
+      "date": "2026-11-06T02:44:51",
+      "location": "934 Mitchell Branch Apt. 686\nNew Thomashaven, AZ 40992",
+      "clubName": "UM Anime Club"
+    },
+    {
+      "title": "Multi-channeled uniform implementation",
+      "description": "Color floor notice understand.",
+      "date": "2026-03-13T17:13:39",
+      "location": "9117 Ruth Valleys\nNew David, IL 56145",
+      "clubName": "UM Anime Club"
+    },
+    {
+      "title": "Persevering reciprocal installation",
+      "description": "Nation feel one memory garden media.",
+      "date": "2026-06-06T01:25:11",
+      "location": "2190 Evans Rue\nNelsonshire, ME 99567",
+      "clubName": "UM Anime Club"
+    },
+    {
+      "title": "Proactive 24/7 protocol",
+      "description": "Research contain mind record. Successful citizen vote free minute line.",
+      "date": "2026-01-27T21:42:08",
+      "location": "032 Michelle Isle\nSouth Dianebury, RI 37735",
+      "clubName": "UM Anime Club"
+    },
+    {
+      "title": "Centralized bottom-line hardware",
+      "description": "During dream land key win.",
+      "date": "2026-12-02T13:57:20",
+      "location": "86190 Perkins Inlet Suite 993\nAdambury, NM 31300",
+      "clubName": "Science Student Association"
+    },
+    {
+      "title": "Open-architected transitional hierarchy",
+      "description": "Religious somebody reason sport matter marriage back. Particularly same board while.",
+      "date": "2026-02-05T10:04:27",
+      "location": "1731 Williams Island Suite 803\nSouth Michaelton, NJ 92626",
+      "clubName": "Science Student Association"
+    },
+    {
+      "title": "Realigned needs-based focus group",
+      "description": "Certain remain own property huge.",
+      "date": "2026-07-22T03:28:06",
+      "location": "Unit 7338 Box 7612\nDPO AA 66775",
+      "clubName": "Women in STEM"
+    },
+    {
+      "title": "Open-architected transitional access",
+      "description": "Prove loss study.",
+      "date": "2026-05-08T15:13:25",
+      "location": "92817 Renee Path\nStonechester, DC 07052",
+      "clubName": "Women in STEM"
+    },
+    {
+      "title": "Multi-lateral local application",
+      "description": "Road training unit.",
+      "date": "2026-12-13T22:39:36",
+      "location": "USCGC Mills\nFPO AA 97434",
+      "clubName": "Women in STEM"
+    },
+    {
+      "title": "Monitored fault-tolerant complexity",
+      "description": "Catch success reduce major pass cold. Much according leave.",
+      "date": "2026-02-23T10:51:24",
+      "location": "42824 Young Flats\nLake Jessicaside, IA 41418",
+      "clubName": "Women in STEM"
+    }
+  ]
+}
